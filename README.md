@@ -62,8 +62,8 @@ Users can dynamically switch between:
 
 ## Dashboard Preview
 
-![Dashboard](<img width="3083" height="2238" alt="Final Dashboard" src="https://github.com/user-attachments/assets/1c8c196d-9245-4967-8a27-ebfca561c7f3" />
-)
+![Dashboard]
+<img width="3083" height="2238" alt="image" src="https://github.com/user-attachments/assets/00f405d8-9ea7-4e63-944d-c32f7533f215" />
 
 ## Skills Demonstrated
 
