@@ -1,0 +1,51 @@
+Product_ID,SKU_Name,Brand,Category,Size,MRP
+P0001,Surf Excel_1,Surf Excel,Home Care,200g,193.52
+P0002,Lifebuoy_2,Lifebuoy,Beauty & Personal Care,500ml,475.85
+P0003,Dove_3,Dove,Beauty & Personal Care,50g,368.68
+P0004,Lipton_4,Lipton,Foods & Beverages,50g,303.34
+P0005,Surf Excel_5,Surf Excel,Home Care,200g,86.45
+P0006,Lifebuoy_6,Lifebuoy,Beauty & Personal Care,1kg,86.44
+P0007,Dove_7,Dove,Beauty & Personal Care,100ml,38.46
+P0008,Domex_8,Domex,Home Care,1L,434.43
+P0009,Surf Excel_9,Surf Excel,Home Care,500ml,304.55
+P0010,Surf Excel_10,Surf Excel,Home Care,50g,356.96
+P0011,Knorr_11,Knorr,Foods & Beverages,200g,20.09
+P0012,Pond's_12,Pond's,Beauty & Personal Care,500ml,485.26
+P0013,Domex_13,Domex,Home Care,1L,417.9
+P0014,Dove_14,Dove,Beauty & Personal Care,100ml,114.05
+P0015,Lifebuoy_15,Lifebuoy,Beauty & Personal Care,1kg,99.09
+P0016,Knorr_16,Knorr,Foods & Beverages,50g,99.87
+P0017,Kissan_17,Kissan,Foods & Beverages,1L,159.08
+P0018,Knorr_18,Knorr,Foods & Beverages,1kg,267.13
+P0019,Domex_19,Domex,Home Care,500ml,221.65
+P0020,Kissan_20,Kissan,Foods & Beverages,100ml,152.7
+P0021,Surf Excel_21,Surf Excel,Home Care,1kg,309.81
+P0022,Surf Excel_22,Surf Excel,Home Care,1kg,78.35
+P0023,Knorr_23,Knorr,Foods & Beverages,100ml,153.15
+P0024,Lipton_24,Lipton,Foods & Beverages,50g,189.52
+P0025,Dove_25,Dove,Beauty & Personal Care,50g,233.47
+P0026,Pond's_26,Pond's,Beauty & Personal Care,200g,394.74
+P0027,Lifebuoy_27,Lifebuoy,Beauty & Personal Care,500ml,107.84
+P0028,Domex_28,Domex,Home Care,100ml,261.97
+P0029,Dove_29,Dove,Beauty & Personal Care,1kg,300.28
+P0030,Surf Excel_30,Surf Excel,Home Care,100ml,32.76
+P0031,Surf Excel_31,Surf Excel,Home Care,200g,307.7
+P0032,Lipton_32,Lipton,Foods & Beverages,50g,93.56
+P0033,Pond's_33,Pond's,Beauty & Personal Care,1L,41.88
+P0034,Domex_34,Domex,Home Care,100ml,474.95
+P0035,Domex_35,Domex,Home Care,1L,483.16
+P0036,Bru_36,Bru,Foods & Beverages,500ml,406.11
+P0037,Surf Excel_37,Surf Excel,Home Care,200g,159.26
+P0038,Knorr_38,Knorr,Foods & Beverages,50g,57.86
+P0039,Domex_39,Domex,Home Care,1L,345.27
+P0040,Knorr_40,Knorr,Foods & Beverages,1L,225.67
+P0041,Vim_41,Vim,Home Care,1L,69.8
+P0042,Bru_42,Bru,Foods & Beverages,1L,252.64
+P0043,Knorr_43,Knorr,Foods & Beverages,250ml,26.85
+P0044,Lakme_44,Lakme,Beauty & Personal Care,100ml,455.57
+P0045,Domex_45,Domex,Home Care,250ml,136.8
+P0046,Lifebuoy_46,Lifebuoy,Beauty & Personal Care,100ml,334.64
+P0047,Lakme_47,Lakme,Beauty & Personal Care,100ml,162.74
+P0048,Knorr_48,Knorr,Foods & Beverages,500ml,264.83
+P0049,Bru_49,Bru,Foods & Beverages,200g,277.89
+P0050,Lipton_50,Lipton,Foods & Beverages,50g,100.58

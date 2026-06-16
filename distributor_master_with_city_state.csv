@@ -1,0 +1,101 @@
+Distributor_ID,Distributor_Name,Region,Tier,Type,Contact_Number,City,State
+D0001,Distributor_1,East,Tier 1,Rural,9999381813,Kolkata,West Bengal
+D0002,Distributor_2,South,Tier 1,Semi-Urban,9999571303,Kochi,Kerala
+D0003,Distributor_3,North,Tier 2,Rural,9999791842,Lucknow,Uttar Pradesh
+D0004,Distributor_4,South,Tier 3,Semi-Urban,9999751954,Hyderabad,Telangana
+D0005,Distributor_5,East,Tier 2,Semi-Urban,9999182507,Patna,Bihar
+D0006,Distributor_6,South,Tier 3,Rural,9999988151,Chennai,Tamil Nadu
+D0007,Distributor_7,East,Tier 3,Semi-Urban,9999819625,Bhubaneswar,Odisha
+D0008,Distributor_8,West,Tier 2,Urban,9999319126,Ahmedabad,Gujarat
+D0009,Distributor_9,East,Tier 1,Rural,9999525349,Patna,Bihar
+D0010,Distributor_10,South,Tier 2,Rural,9999556051,Chennai,Tamil Nadu
+D0011,Distributor_11,East,Tier 1,Rural,9999518295,Patna,Bihar
+D0012,Distributor_12,South,Tier 2,Semi-Urban,9999784767,Chennai,Tamil Nadu
+D0013,Distributor_13,South,Tier 1,Rural,9999488727,Hyderabad,Telangana
+D0014,Distributor_14,South,Tier 2,Rural,9999335749,Bangalore,Karnataka
+D0015,Distributor_15,East,Tier 3,Rural,9999922697,Kolkata,West Bengal
+D0016,Distributor_16,North,Tier 3,Semi-Urban,9999288454,Lucknow,Uttar Pradesh
+D0017,Distributor_17,West,Tier 1,Urban,9999764687,Pune,Maharashtra
+D0018,Distributor_18,East,Tier 2,Semi-Urban,9999586097,Bhubaneswar,Odisha
+D0019,Distributor_19,West,Tier 2,Rural,9999134656,Pune,Maharashtra
+D0020,Distributor_20,East,Tier 2,Semi-Urban,9999907914,Patna,Bihar
+D0021,Distributor_21,North,Tier 2,Rural,9999362808,Delhi,Delhi
+D0022,Distributor_22,West,Tier 3,Semi-Urban,9999127252,Ahmedabad,Gujarat
+D0023,Distributor_23,North,Tier 2,Rural,9999800888,Delhi,Delhi
+D0024,Distributor_24,South,Tier 2,Rural,9999276069,Chennai,Tamil Nadu
+D0025,Distributor_25,East,Tier 2,Rural,9999300605,Patna,Bihar
+D0026,Distributor_26,East,Tier 1,Rural,9999355060,Guwahati,Assam
+D0027,Distributor_27,South,Tier 1,Urban,9999471466,Chennai,Tamil Nadu
+D0028,Distributor_28,South,Tier 2,Semi-Urban,9999281689,Chennai,Tamil Nadu
+D0029,Distributor_29,East,Tier 3,Semi-Urban,9999427465,Guwahati,Assam
+D0030,Distributor_30,East,Tier 2,Semi-Urban,9999539705,Patna,Bihar
+D0031,Distributor_31,South,Tier 2,Rural,9999586539,Kochi,Kerala
+D0032,Distributor_32,East,Tier 2,Rural,9999189330,Bhubaneswar,Odisha
+D0033,Distributor_33,North,Tier 1,Urban,9999541397,Delhi,Delhi
+D0034,Distributor_34,East,Tier 1,Semi-Urban,9999590227,Patna,Bihar
+D0035,Distributor_35,South,Tier 2,Semi-Urban,9999173258,Hyderabad,Telangana
+D0036,Distributor_36,West,Tier 2,Urban,9999311904,Ahmedabad,Gujarat
+D0037,Distributor_37,West,Tier 2,Semi-Urban,9999331992,Mumbai,Maharashtra
+D0038,Distributor_38,North,Tier 3,Urban,9999840945,Lucknow,Uttar Pradesh
+D0039,Distributor_39,West,Tier 1,Rural,9999819528,Mumbai,Maharashtra
+D0040,Distributor_40,South,Tier 3,Semi-Urban,9999731357,Bangalore,Karnataka
+D0041,Distributor_41,East,Tier 2,Rural,9999969755,Guwahati,Assam
+D0042,Distributor_42,South,Tier 1,Urban,9999151217,Hyderabad,Telangana
+D0043,Distributor_43,South,Tier 3,Urban,9999903264,Kochi,Kerala
+D0044,Distributor_44,North,Tier 1,Semi-Urban,9999531146,Delhi,Delhi
+D0045,Distributor_45,East,Tier 2,Urban,9999221200,Kolkata,West Bengal
+D0046,Distributor_46,West,Tier 3,Semi-Urban,9999709279,Mumbai,Maharashtra
+D0047,Distributor_47,East,Tier 1,Semi-Urban,9999969569,Patna,Bihar
+D0048,Distributor_48,South,Tier 3,Urban,9999708732,Kochi,Kerala
+D0049,Distributor_49,North,Tier 1,Urban,9999224193,Jaipur,Rajasthan
+D0050,Distributor_50,East,Tier 1,Rural,9999977765,Bhubaneswar,Odisha
+D0051,Distributor_51,East,Tier 1,Urban,9999901934,Patna,Bihar
+D0052,Distributor_52,West,Tier 2,Urban,9999546905,Mumbai,Maharashtra
+D0053,Distributor_53,West,Tier 1,Rural,9999100964,Mumbai,Maharashtra
+D0054,Distributor_54,East,Tier 1,Urban,9999153553,Bhubaneswar,Odisha
+D0055,Distributor_55,West,Tier 1,Semi-Urban,9999690223,Pune,Maharashtra
+D0056,Distributor_56,South,Tier 2,Semi-Urban,9999492694,Kochi,Kerala
+D0057,Distributor_57,West,Tier 3,Semi-Urban,9999722082,Mumbai,Maharashtra
+D0058,Distributor_58,West,Tier 3,Rural,9999707942,Goa,Goa
+D0059,Distributor_59,South,Tier 2,Rural,9999385993,Kochi,Kerala
+D0060,Distributor_60,South,Tier 2,Rural,9999654812,Kochi,Kerala
+D0061,Distributor_61,West,Tier 1,Semi-Urban,9999614908,Ahmedabad,Gujarat
+D0062,Distributor_62,East,Tier 3,Rural,9999611527,Kolkata,West Bengal
+D0063,Distributor_63,East,Tier 1,Urban,9999877123,Bhubaneswar,Odisha
+D0064,Distributor_64,South,Tier 3,Rural,9999161750,Bangalore,Karnataka
+D0065,Distributor_65,South,Tier 1,Urban,9999995452,Kochi,Kerala
+D0066,Distributor_66,East,Tier 3,Semi-Urban,9999115362,Patna,Bihar
+D0067,Distributor_67,West,Tier 2,Rural,9999117439,Pune,Maharashtra
+D0068,Distributor_68,East,Tier 3,Urban,9999155884,Guwahati,Assam
+D0069,Distributor_69,West,Tier 1,Rural,9999904730,Goa,Goa
+D0070,Distributor_70,East,Tier 2,Urban,9999696036,Bhubaneswar,Odisha
+D0071,Distributor_71,South,Tier 3,Rural,9999585190,Chennai,Tamil Nadu
+D0072,Distributor_72,North,Tier 2,Urban,9999338742,Lucknow,Uttar Pradesh
+D0073,Distributor_73,East,Tier 2,Rural,9999136657,Kolkata,West Bengal
+D0074,Distributor_74,West,Tier 3,Urban,9999911561,Goa,Goa
+D0075,Distributor_75,South,Tier 1,Semi-Urban,9999252472,Bangalore,Karnataka
+D0076,Distributor_76,East,Tier 1,Rural,9999475478,Patna,Bihar
+D0077,Distributor_77,South,Tier 1,Rural,9999765855,Chennai,Tamil Nadu
+D0078,Distributor_78,West,Tier 3,Semi-Urban,9999673311,Pune,Maharashtra
+D0079,Distributor_79,West,Tier 2,Semi-Urban,9999358303,Mumbai,Maharashtra
+D0080,Distributor_80,South,Tier 2,Semi-Urban,9999395504,Kochi,Kerala
+D0081,Distributor_81,North,Tier 1,Rural,9999464864,Lucknow,Uttar Pradesh
+D0082,Distributor_82,North,Tier 2,Semi-Urban,9999346733,Chandigarh,Punjab
+D0083,Distributor_83,North,Tier 3,Urban,9999880927,Chandigarh,Punjab
+D0084,Distributor_84,West,Tier 2,Semi-Urban,9999900250,Ahmedabad,Gujarat
+D0085,Distributor_85,East,Tier 2,Rural,9999181502,Bhubaneswar,Odisha
+D0086,Distributor_86,West,Tier 3,Urban,9999532592,Mumbai,Maharashtra
+D0087,Distributor_87,North,Tier 2,Semi-Urban,9999369509,Jaipur,Rajasthan
+D0088,Distributor_88,East,Tier 2,Urban,9999925942,Guwahati,Assam
+D0089,Distributor_89,South,Tier 2,Rural,9999737897,Kochi,Kerala
+D0090,Distributor_90,East,Tier 2,Urban,9999609024,Guwahati,Assam
+D0091,Distributor_91,North,Tier 2,Urban,9999997957,Chandigarh,Punjab
+D0092,Distributor_92,South,Tier 1,Urban,9999813054,Kochi,Kerala
+D0093,Distributor_93,North,Tier 1,Semi-Urban,9999170405,Chandigarh,Punjab
+D0094,Distributor_94,South,Tier 2,Urban,9999528664,Chennai,Tamil Nadu
+D0095,Distributor_95,North,Tier 2,Rural,9999920837,Lucknow,Uttar Pradesh
+D0096,Distributor_96,North,Tier 1,Urban,9999528787,Lucknow,Uttar Pradesh
+D0097,Distributor_97,South,Tier 2,Rural,9999631587,Hyderabad,Telangana
+D0098,Distributor_98,North,Tier 2,Semi-Urban,9999326315,Chandigarh,Punjab
+D0099,Distributor_99,North,Tier 2,Urban,9999338994,Lucknow,Uttar Pradesh
+D0100,Distributor_100,North,Tier 1,Semi-Urban,9999559344,Delhi,Delhi
